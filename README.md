@@ -297,11 +297,11 @@
 <!-- ```html -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true"
     alt="emilien-lambert"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private="
     alt="emilien-lambert"
   />
 </p>
