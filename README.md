@@ -14,7 +14,7 @@
 <!-- ```html -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
+    src="https://github-readme-stats-mocha-ten-50.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
     alt="emilien-lambert"
   />
   <img
@@ -323,7 +323,7 @@
 <!-- ```html -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula"
+    src="https://github-readme-stats-mocha-ten-50.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula"
     alt="emilien-lambert"
   />
   <img
