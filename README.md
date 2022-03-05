@@ -285,17 +285,34 @@
 </p>
 <!-- ``` -->
 
-<p style="text-align: center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact" alt="emilien-lambert" /></p>
-
-<p style="text-align: center">
-<img  src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en" alt="emilien-lambert" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&" alt="emilien-lambert" />
+<!-- ```html -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact"
+    alt="emilien-lambert"
+  />
 </p>
+<!-- ``` -->
 
-<p style="text-align: center">
+<!-- ```html -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en"
+    alt="emilien-lambert"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&"
+    alt="emilien-lambert"
+  />
+</p>
+<!-- ``` -->
+
+<!-- ```html -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=emilien-lambert"
       alt="emilien-lambert"
   /></a>
 </p>
+<!-- ``` -->
