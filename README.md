@@ -1,5 +1,3 @@
-# my readme
-
 <!-- ```html -->
 <h1 style="text-align: center">Hi 👋, I'm Emilien</h1>
 <h3 style="text-align: center">I am a student developer at Epitech school</h3>
