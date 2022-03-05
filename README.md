@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Emilien</h1>
 <h3 align="center">I am a student developer at Epitech school</h3>
 
+<!-- ```html -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=emilien-lambert&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,13 +11,58 @@
 </p>
 <!-- ``` -->
 
-- 🔭 I’m currently working on [Radium - ICL Project](http://icl.emilien-lambert.com/)
+<!-- ```html -->
+<div style="display: flex; justify-content: space-around">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
+    alt="emilien-lambert"
+  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=emilien-lambert&column=3"
+      alt="emilien-lambert"
+  /></a>
+</div>
+<!-- ``` -->
 
-- 🌱 I’m currently learning **Vue.js, Python, Unraid, Node.js**
-
-- 👨‍💻 All of my projects are available at [https://gitlab.com/Emilien-Lambert](https://gitlab.com/Emilien-Lambert)
-
-- 📫 How to reach me **lee-kewpie.0l@icloud.com**
+<!-- ````html -->
+<h3 align="left">About me</h3>
+<ul style="list-style-type: none">
+  <li>
+    <span>
+      🔭   I’m currently working on
+      <a href="http://icl.emilien-lambert.com/" target="blank">
+        Radium - ICL Project
+      </a>
+      A clinical trial management software for cancer research
+    </span>
+  </li>
+  <br />
+  <li>
+    <span>
+      🌱   I’m currently learning
+      <strong>Vue.js, Python, Unraid, Node.js</strong>
+      A clinical trial management software for cancer research
+    </span>
+  </li>
+  <br />
+  <li>
+    <span>
+      👨‍💻   All of my projects are available at
+      <a href="https://gitlab.com/Emilien-Lambert" target="blank"> GitLab </a>
+    </span>
+  </li>
+  <br />
+  <li>
+    <span>
+      📫   How to reach me
+      <a itemprop="email" href="mailto:lee-kewpie.0l@icloud.com"
+        >lee-kewpie.0l@icloud.com</a
+      >
+    </span>
+  </li>
+</ul>
+<!-- ``` -->
 
 <!-- ```html -->
 <h3 align="left">Connect with me</h3>
@@ -62,21 +108,11 @@
 <!-- ```html -->
 <h3 align="left">Languages and Tools</h3>
 <p align="center">
-<a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./icons/gitlab.svg"
-      alt="gitlab"
-      width="40"
-      height="40"
-    />
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="./icons/gitlab.svg" alt="gitlab" width="40" height="40" />
   </a>
   <a href="https://apple.com/" target="_blank" rel="noreferrer">
-    <img
-      src="./icons/apple.svg"
-      alt="apple"
-      width="40"
-      height="40"
-    />
+    <img src="./icons/apple.svg" alt="apple" width="40" height="40" />
   </a>
   <a href="https://bulma.io/" target="_blank" rel="noreferrer">
     <img
@@ -126,7 +162,7 @@
       height="40"
     />
   </a>
-    <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
+  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
     <img
       src="./icons/raspberrypi.svg"
       alt="raspberrypi"
@@ -150,7 +186,7 @@
       height="40"
     />
   </a>
-   <a href="https://www.unraid.net" target="_blank" rel="noreferrer">
+  <a href="https://www.unraid.net" target="_blank" rel="noreferrer">
     <img
       src="https://styles.redditmedia.com/t5_2sn94/styles/communityIcon_dvuyt8m6z9y41.png?width=256&s=68c8955c01a2b2284730775ff26cf17a06352655"
       alt="Unraid"
@@ -286,33 +322,14 @@
 <!-- ``` -->
 
 <!-- ```html -->
-<p align="center">
+<div style="display: flex; justify-content: space-around">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact"
-    alt="emilien-lambert"
-  />
-</p>
-<!-- ``` -->
-
-<!-- ```html -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula"
     alt="emilien-lambert"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private="
+    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private=true&theme=dracula"
     alt="emilien-lambert"
   />
-</p>
-<!-- ``` -->
-
-<!-- ```html -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=emilien-lambert"
-      alt="emilien-lambert"
-  /></a>
-</p>
+</div>
 <!-- ``` -->
