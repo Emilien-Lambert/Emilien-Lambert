@@ -12,17 +12,22 @@
 <!-- ``` -->
 
 <!-- ```html -->
-<div style="display: flex; justify-content: space-around">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
-    alt="emilien-lambert"
-  />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=emilien-lambert&column=3"
-      alt="emilien-lambert"
-  /></a>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
+        alt="emilien-lambert"
+      />
+    </td>
+    <td>
+      <img
+          src="https://github-profile-trophy.vercel.app/?username=emilien-lambert&column=3"
+          alt="emilien-lambert"
+      />
+    </td>
+  </tr>
+</table>
 <!-- ``` -->
 
 <!-- ````html -->
@@ -322,14 +327,19 @@
 <!-- ``` -->
 
 <!-- ```html -->
-<div style="display: flex; justify-content: space-around">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula"
-    alt="emilien-lambert"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private=true&theme=dracula"
-    alt="emilien-lambert"
-  />
-</div>
-<!-- ``` -->
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula"
+        alt="emilien-lambert"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private=true&theme=dracula"
+        alt="emilien-lambert"
+      />
+    </td>
+  </tr>
+</table>
