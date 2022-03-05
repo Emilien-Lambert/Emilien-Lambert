@@ -12,7 +12,7 @@
 <!-- ``` -->
 
 <!-- ```html -->
-<div style="display: flex; justify-content: space-around">
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
     alt="emilien-lambert"
@@ -321,7 +321,7 @@
 <!-- ``` -->
 
 <!-- ```html -->
-<div style="display: flex; justify-content: space-around">
+<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula"
     alt="emilien-lambert"
