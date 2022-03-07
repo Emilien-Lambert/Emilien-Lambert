@@ -18,7 +18,7 @@
     alt="emilien-lambert"
   />
   <img
-    src="https://github-profile-trophy.vercel.app/?username=emilien-lambert&column=3"
+    src="https://github-profile-trophy.vercel.app/?username=emilien-lambert&column=3&theme=dracula&margin-w=5&margin-h=5"
     alt="emilien-lambert"
   />
 </div>
@@ -41,7 +41,6 @@
     <span>
       🌱   I’m currently learning
       <strong>Vue.js, Python, Unraid, Node.js</strong>
-      A clinical trial management software for cancer research
     </span>
   </li>
   <br />
