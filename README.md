@@ -10,7 +10,6 @@
   />
 </p>
 <!-- ``` -->
-
 <!-- ```html -->
 <div align="center">
   <img
