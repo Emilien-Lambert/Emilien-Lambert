@@ -23,9 +23,16 @@
 </div>
 <!-- ``` -->
 
-<!-- ````html -->
+<!-- ```html -->
 <h3 align="left">About me</h3>
 <ul style="list-style-type: none">
+  <li>
+    <span>
+      🎓   You can see my resume
+      <a href="https://my-resume-one-ebon.vercel.app/" target="blank"> here </a>
+    </span>
+  </li>
+  <br />
   <li>
     <span>
       🔭   I’m currently working on
@@ -330,3 +337,4 @@
   />
 </div>
 <!-- ``` -->
+````
