@@ -29,14 +29,14 @@
   <li>
     <span>
       🎓   You can see my resume
-      <a href="https://cv.emilien-lambert.com/" target="blank"> here </a>
+      <a href="https://cv.emilien-lambert.com/" target="_blank"> here </a>
     </span>
   </li>
   <br />
   <li>
     <span>
       🔭   I’m currently working on
-      <a href="http://icl.emilien-lambert.com/" target="blank">
+      <a href="http://icl.emilien-lambert.com/" target="_blank">
         Radium - ICL Project
       </a>
       A clinical trial management software for cancer research
@@ -53,7 +53,7 @@
   <li>
     <span>
       👨‍💻   All of my projects are available at
-      <a href="https://gitlab.com/Emilien-Lambert" target="blank"> GitLab </a>
+      <a href="https://gitlab.com/Emilien-Lambert" target="_blank"> GitLab </a>
     </span>
   </li>
   <br />
@@ -69,7 +69,7 @@
   <li>
     <span>
       🎮   You think you can beat me at
-      <a href="https://game.emilien-lambert.com"
+      <a href="https://game.emilien-lambert.com" target="_blank"
         >retro gaming</a
       >?
     </span>
@@ -80,7 +80,7 @@
 <!-- ```html -->
 <h3 align="left">Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/emilien-lambert" target="blank">
+  <a href="https://linkedin.com/in/emilien-lambert" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin icon"
@@ -88,7 +88,7 @@
       width="40"
     />
   </a>
-  <a href="https://stackoverflow.com/users/user:14203319" target="blank">
+  <a href="https://stackoverflow.com/users/user:14203319" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
       alt="user:14203319"
@@ -96,7 +96,7 @@
       width="40"
     />
   </a>
-  <a href="https://instagram.com/lambert.emilien" target="blank">
+  <a href="https://instagram.com/lambert.emilien" target="_blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="lambert.emilien"
@@ -106,7 +106,7 @@
   </a>
   <a
     href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8t6yr-kiklfw3qx1o_nvya/featured"
-    target="blank"
+    target="_blank"
   >
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
