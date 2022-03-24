@@ -29,7 +29,7 @@
   <li>
     <span>
       🎓   You can see my resume
-      <a href="https://my-resume-one-ebon.vercel.app/" target="blank"> here </a>
+      <a href="https://cv.emilien-lambert.com/" target="blank"> here </a>
     </span>
   </li>
   <br />
@@ -63,6 +63,15 @@
       <a itemprop="email" href="mailto:lee-kewpie.0l@icloud.com"
         >lee-kewpie.0l@icloud.com</a
       >
+    </span>
+  </li>
+  <br />
+  <li>
+    <span>
+      🎮   You think you can beat me at
+      <a href="https://game.emilien-lambert.com"
+        >retro gaming</a
+      >?
     </span>
   </li>
 </ul>
