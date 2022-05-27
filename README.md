@@ -65,7 +65,7 @@
       >
     </span>
   </li>
-  <br />
+  <!-- <br />
   <li>
     <span>
       🎮   You think you can beat me at
@@ -73,7 +73,7 @@
         >retro gaming</a
       >?
     </span>
-  </li>
+  </li> -->
 </ul>
 <!-- ``` -->
 
@@ -346,4 +346,3 @@
   />
 </div>
 <!-- ``` -->
-````
