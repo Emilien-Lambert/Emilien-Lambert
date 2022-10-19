@@ -337,7 +337,7 @@
 <!-- ```html -->
 <div align="center">
   <img
-    src="https://github-readme-stats-mocha-ten-50.vercel.app/api/top-langs?username=emilien-lambert&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dracula&hide=Jupyter Notebook,PHP"
+    src="https://github-readme-stats-mocha-ten-50.vercel.app/api/top-langs/?username=emilien-lambert&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=8&theme=dracula&hide=Jupyter Notebook,PHP"
     alt="emilien-lambert"
   />
   <img
