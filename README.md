@@ -337,10 +337,6 @@
 <!-- ```html -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=emilien-lambert&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=8&theme=dracula&hide=Jupyter Notebook,PHP"
-    alt="emilien-lambert"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private=true&theme=dracula"
     alt="emilien-lambert"
   />
