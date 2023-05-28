@@ -105,7 +105,7 @@
     />
   </a>
   <a
-    href="https://www.youtube.com/watch?v=OIQKQPqLUfw"
+    href="https://www.youtube.com/@emilienlambert3636/"
     target="_blank"
   >
     <img
