@@ -105,7 +105,7 @@
     />
   </a>
   <a
-    href="https://www.youtube.com/c/https://www.youtube.com/channel/uc8t6yr-kiklfw3qx1o_nvya/featured"
+    href="https://www.youtube.com/watch?v=OIQKQPqLUfw"
     target="_blank"
   >
     <img
