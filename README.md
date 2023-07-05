@@ -26,12 +26,12 @@
 <!-- ```html -->
 <h3 align="left">About me</h3>
 <ul style="list-style-type: none">
-  <li>
+  <!-- <li>
     <span>
       🎓   You can see my resume
       <a href="https://cv.emilien-lambert.com/" target="_blank"> here </a>
     </span>
-  </li>
+  </li> -->
   <br />
   <li>
     <span>
