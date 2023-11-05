@@ -46,7 +46,7 @@
   <li>
     <span>
       🌱   I’m currently learning
-      <strong>Vue.js, Python, Unraid, Node.js</strong>
+      <strong>Vue.js, Appwrite, Node.js</strong>
     </span>
   </li>
   <br />
