@@ -52,13 +52,6 @@
   <br />
   <li>
     <span>
-      👨‍💻   All of my projects are available at
-      <a href="https://gitlab.com/Emilien-Lambert" target="_blank"> GitLab </a>
-    </span>
-  </li>
-  <br />
-  <li>
-    <span>
       📫   How to reach me
       <a itemprop="email" href="mailto:lee-kewpie.0l@icloud.com"
         >lee-kewpie.0l@icloud.com</a
