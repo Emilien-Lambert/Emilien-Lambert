@@ -36,7 +36,7 @@
   <li>
     <span>
       🔭   I’m currently working on
-      <a href="https://radium-recherche.com" target="_blank">
+      <a href="https://icl.radium-tech.com" target="_blank">
         Radium - ICL Project
       </a>
       A clinical trial management software for cancer research
