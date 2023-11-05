@@ -1,6 +1,7 @@
 <!-- ```html -->
 <h1 align="center">Hi 👋, I'm Emilien</h1>
-<h3 align="center">I am a student developer at Epitech school</h3>
+<h3 align="center">I am a full stack developer at <a href="https://pro.pandalab.fr" target="_blank">PandaLab</a></h3>
+<h5 align="center">Former student of epitech school</h5>
 
 <!-- ```html -->
 <p align="center">
