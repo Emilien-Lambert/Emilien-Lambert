@@ -132,18 +132,11 @@ I run my own infrastructure — because owning your stack matters.
 - **Bitcoin Node** — Running my own full node for network sovereignty
 - **Hardware** — Apple & Raspberry Pi devices across the stack
 
-<details>
-<summary>More about my setup</summary>
-
-<br />
-
 I believe in digital sovereignty. Every service I can self-host, I do — from Git repositories to AI models to my own Bitcoin node. My infrastructure runs on Docker Swarm services and bare-metal Raspberry Pis, all monitored and automated.
 
 I'm also passionate about crypto and traditional finance. I used to run GPU mining rigs with [HiveOS](https://hiveos.farm) — while I no longer mine, I stay deeply involved in the crypto ecosystem.
 
 Check out my GitHub organization: [Radium-T3ch](https://github.com/Radium-T3ch)
-
-</details>
 
 ---
 
