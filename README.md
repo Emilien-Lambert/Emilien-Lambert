@@ -13,7 +13,7 @@
 
 ## About Me
 
-Full stack developer at [PandaLab](https://pro.pandalab.fr). I built [Radium ICL](https://icl.radium-tech.com), a clinical trial management platform for cancer research, as a volunteer project. Passionate about digital sovereignty — I self-host everything I can, run local AI models, and believe infrastructure should be owned, not rented. Active contributor to the self-hosted open source ecosystem.
+Full stack developer at [PandaLab](https://pro.pandalab.fr). I built [Radium ICL](https://icl.radium-tech.com), a clinical trial management platform for cancer research, as a volunteer project. Passionate about digital sovereignty — I self-host everything I can, run local AI models, and believe infrastructure should be owned, not rented. Active contributor to the self-hosted open source ecosystem. Also deeply interested in crypto and traditional finance.
 
 ---
 
@@ -64,6 +64,7 @@ Full stack developer at [PandaLab](https://pro.pandalab.fr). I built [Radium ICL
   <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" alt="Ceph" />
   <img src="https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" alt="Unraid" />
   <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
 </p>
 
 **Cloud & Services**
@@ -93,16 +94,19 @@ Full stack developer at [PandaLab](https://pro.pandalab.fr). I built [Radium ICL
   <img src="https://img.shields.io/badge/Exo-000000?style=flat-square" alt="Exo" />
 </p>
 
-**Networking & Security**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
-</p>
-
-**Smart Home**
+**Smart Home & IoT**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/Homebridge-491F59?style=flat-square&logo=homebridge&logoColor=white" alt="Homebridge" />
+  <img src="https://img.shields.io/badge/Umbrel-5218FA?style=flat-square&logo=umbrel&logoColor=white" alt="Umbrel" />
+</p>
+
+**Crypto & Finance**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+  <img src="https://img.shields.io/badge/HiveOS-FFC107?style=flat-square" alt="HiveOS" />
 </p>
 
 **Testing**
@@ -118,13 +122,14 @@ Full stack developer at [PandaLab](https://pro.pandalab.fr). I built [Radium ICL
 
 I run my own infrastructure — because owning your stack matters.
 
-- **Orchestration** — Docker Swarm cluster for all services
+- **Orchestration** — Docker Swarm cluster managed with Portainer
 - **Storage** — Ceph for distributed file storage
-- **Local AI** — Multi-Mac cluster with [Exo](https://github.com/exo-explore/exo) + Ollama for performant local inference
-- **Virtualization** — Proxmox for VMs and containers
+- **Local AI** — [Exo](https://github.com/exo-explore/exo) for multi-Mac clusters, [Ollama](https://ollama.com) and [LM Studio](https://lmstudio.ai) for local model inference
 - **Monitoring** — Grafana & Prometheus for full observability
 - **Networking** — WireGuard VPN + Traefik reverse proxy
-- **Smart Home** — Home Assistant on Raspberry Pi
+- **Smart Home** — [Home Assistant](https://www.home-assistant.io) + [Homebridge](https://homebridge.io) for full home automation
+- **Self-Hosted Platform** — [Umbrel](https://umbrel.com) as a personal server OS
+- **Bitcoin Node** — Running my own full node for network sovereignty
 - **Hardware** — Apple & Raspberry Pi devices across the stack
 
 <details>
@@ -132,7 +137,9 @@ I run my own infrastructure — because owning your stack matters.
 
 <br />
 
-I believe in digital sovereignty. Every service I can self-host, I do — from Git repositories to AI models. My infrastructure runs on a mix of Proxmox VMs, Docker Swarm services, and bare-metal Raspberry Pis, all monitored and automated.
+I believe in digital sovereignty. Every service I can self-host, I do — from Git repositories to AI models to my own Bitcoin node. My infrastructure runs on Docker Swarm services and bare-metal Raspberry Pis, all monitored and automated.
+
+I'm also passionate about crypto and traditional finance. I used to run GPU mining rigs with [HiveOS](https://hiveos.farm) — while I no longer mine, I stay deeply involved in the crypto ecosystem.
 
 Check out my GitHub organization: [Radium-T3ch](https://github.com/Radium-T3ch)
 
