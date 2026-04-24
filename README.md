@@ -1,338 +1,177 @@
-<!-- ```html -->
-<h1 align="center">Hi 👋, I'm Emilien</h1>
-<h3 align="center">I am a full stack developer at <a href="https://pro.pandalab.fr" target="_blank">PandaLab</a></h3>
-<h5 align="center">Former student of epitech school</h5>
+<h1 align="center">Hey, I'm Emilien</h1>
 
-<!-- ```html -->
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=emilien-lambert&label=Profile%20views&color=0e75b6&style=flat"
-    alt="emilien-lambert"
-  />
+  <em>Full Stack Developer @ <a href="https://pro.pandalab.fr">PandaLab</a></em>
 </p>
-<!-- ``` -->
-<!-- ```html -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/France-%F0%9F%87%AB%F0%9F%87%B7-blue?style=flat-square" alt="France" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-bd93f9?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source Enthusiast" />
+</p>
+
+---
+
+## About Me
+
+Full stack developer at [PandaLab](https://pro.pandalab.fr). I built [Radium ICL](https://icl.radium-tech.com), a clinical trial management platform for cancer research, as a volunteer project. Passionate about digital sovereignty — I self-host everything I can, run local AI models, and believe infrastructure should be owned, not rented. Active contributor to the self-hosted open source ecosystem.
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+</p>
+
+**Backend**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+**Infra & DevOps**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Docker_Swarm-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Swarm" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black" alt="Puppet" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=white" alt="Ceph" />
+  <img src="https://img.shields.io/badge/Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white" alt="Unraid" />
+  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white" alt="Portainer" />
+</p>
+
+**Cloud & Services**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite" />
+  <img src="https://img.shields.io/badge/OVH-123F6D?style=flat-square&logo=ovh&logoColor=white" alt="OVH" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+</p>
+
+**Monitoring**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+</p>
+
+**AI & Data**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/LM_Studio-6C47FF?style=flat-square" alt="LM Studio" />
+  <img src="https://img.shields.io/badge/Exo-000000?style=flat-square" alt="Exo" />
+</p>
+
+**Networking & Security**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+</p>
+
+**Smart Home**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+</p>
+
+**Testing**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+</p>
+
+---
+
+## Homelab & Open Source
+
+I run my own infrastructure — because owning your stack matters.
+
+- **Orchestration** — Docker Swarm cluster for all services
+- **Storage** — Ceph for distributed file storage
+- **Local AI** — Multi-Mac cluster with [Exo](https://github.com/exo-explore/exo) + Ollama for performant local inference
+- **Virtualization** — Proxmox for VMs and containers
+- **Monitoring** — Grafana & Prometheus for full observability
+- **Networking** — WireGuard VPN + Traefik reverse proxy
+- **Smart Home** — Home Assistant on Raspberry Pi
+- **Hardware** — Apple & Raspberry Pi devices across the stack
+
+<details>
+<summary>More about my setup</summary>
+
+<br />
+
+I believe in digital sovereignty. Every service I can self-host, I do — from Git repositories to AI models. My infrastructure runs on a mix of Proxmox VMs, Docker Swarm services, and bare-metal Raspberry Pis, all monitored and automated.
+
+Check out my GitHub organization: [Radium-T3ch](https://github.com/Radium-T3ch)
+
+</details>
+
+---
+
+## GitHub Stats
+
 <div align="center">
-  <img
-    src="https://github-readme-stats-mocha-ten-50.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula"
-    alt="emilien-lambert"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=emilien-lambert&column=3&theme=dracula&margin-w=5&margin-h=5"
-    alt="emilien-lambert"
-  />
+  <img src="https://github-readme-stats-mocha-ten-50.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula" alt="GitHub Stats" />
 </div>
-<!-- ``` -->
 
-<!-- ```html -->
-<h3 align="left">About me</h3>
-<ul style="list-style-type: none">
-  <!-- <li>
-    <span>
-      🎓   You can see my resume
-      <a href="https://cv.emilien-lambert.com/" target="_blank"> here </a>
-    </span>
-  </li> -->
-  <br />
-  <li>
-    <span>
-      🔭   I’m currently working on
-      <a href="https://icl.radium-tech.com" target="_blank">
-        Radium - ICL Project
-      </a>
-      A clinical trial management software for cancer research
-    </span>
-  </li>
-  <br />
-  <li>
-    <span>
-      🌱   I’m currently learning
-      <strong>Vue.js, Appwrite, Node.js</strong>
-    </span>
-  </li>
-  <br />
-  <li>
-    <span>
-      📫   How to reach me
-      <a itemprop="email" href="mailto:lee-kewpie.0l@icloud.com"
-        >lee-kewpie.0l@icloud.com</a
-      >
-    </span>
-  </li>
-  <!-- <br />
-  <li>
-    <span>
-      🎮   You think you can beat me at
-      <a href="https://game.emilien-lambert.com" target="_blank"
-        >retro gaming</a
-      >?
-    </span>
-  </li> -->
-</ul>
-<!-- ``` -->
-
-<!-- ```html -->
-<h3 align="left">Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/emilien-lambert" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin icon"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://stackoverflow.com/users/user:14203319" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="user:14203319"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a href="https://instagram.com/lambert.emilien" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="lambert.emilien"
-      height="30"
-      width="40"
-    />
-  </a>
-  <a
-    href="https://www.youtube.com/@emilienlambert3636/"
-    target="_blank"
-  >
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="https://www.youtube.com/channel/uc8t6yr-kiklfw3qx1o_nvya/featured"
-      height="30"
-      width="40"
-    />
-  </a>
-</p>
-<!-- ``` -->
-
-<!-- ```html -->
-<h3 align="left">Languages and Tools</h3>
-<p align="center">
-  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/gitlab.svg" alt="gitlab" width="40" height="40" />
-  </a>
-  <a href="https://apple.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/apple.svg" alt="apple" width="40" height="40" />
-  </a>
-  <a href="https://bulma.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
-      alt="bulma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
-      alt="gcp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">
-    <img
-      src="./icons/raspberrypi.svg"
-      alt="raspberrypi"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.unraid.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://styles.redditmedia.com/t5_2sn94/styles/communityIcon_dvuyt8m6z9y41.png?width=256&s=68c8955c01a2b2284730775ff26cf17a06352655"
-      alt="Unraid"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
-      alt="ifttt"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-      alt="nginx"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"
-      alt="nuxtjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-      alt="tensorflow"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img
-      src="https://bestofjs.org/logos/vuetify.svg"
-      alt="vuetify"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-<!-- ``` -->
-
-<!-- ```html -->
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&count_private=true&theme=dracula"
-    alt="emilien-lambert"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilien-lambert&theme=dracula" alt="GitHub Streak" />
 </div>
-<!-- ``` -->
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilien-lambert&theme=dracula" alt="Activity Graph" />
+</div>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/emilien-lambert">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/14203319/petchav">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/lambert.emilien">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@emilienlambert3636/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:lee-kewpie.0l@icloud.com">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</p>
