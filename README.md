@@ -142,6 +142,8 @@ Check out my GitHub organization: [Radium-T3ch](https://github.com/Radium-T3ch)
 
 ## GitHub Stats
 
+> **Note:** Most of my work lives on a self-hosted GitLab instance, so these stats don't fully reflect my activity.
+
 <div align="center">
   <img src="https://github-readme-stats-mocha-ten-50.vercel.app/api?username=emilien-lambert&show_icons=true&locale=en&count_private=true&theme=dracula" alt="GitHub Stats" />
 </div>
